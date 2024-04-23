@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\CsFileStream,File IO\CsFileStreamFileIO\CsFileStreamFileIO\bin\Debug\net8.0\CsFileStreamFileIO.exe
+C:\Users\User\Desktop\CsFileStream,File IO\CsFileStreamFileIO\CsFileStreamFileIO\bin\Debug\net8.0\CsFileStreamFileIO.deps.json
+C:\Users\User\Desktop\CsFileStream,File IO\CsFileStreamFileIO\CsFileStreamFileIO\bin\Debug\net8.0\CsFileStreamFileIO.runtimeconfig.json
+C:\Users\User\Desktop\CsFileStream,File IO\CsFileStreamFileIO\CsFileStreamFileIO\bin\Debug\net8.0\CsFileStreamFileIO.dll
+C:\Users\User\Desktop\CsFileStream,File IO\CsFileStreamFileIO\CsFileStreamFileIO\bin\Debug\net8.0\CsFileStreamFileIO.pdb
+C:\Users\User\Desktop\CsFileStream,File IO\CsFileStreamFileIO\CsFileStreamFileIO\obj\Debug\net8.0\CsFileStreamFileIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CsFileStream,File IO\CsFileStreamFileIO\CsFileStreamFileIO\obj\Debug\net8.0\CsFileStreamFileIO.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CsFileStream,File IO\CsFileStreamFileIO\CsFileStreamFileIO\obj\Debug\net8.0\CsFileStreamFileIO.AssemblyInfo.cs
+C:\Users\User\Desktop\CsFileStream,File IO\CsFileStreamFileIO\CsFileStreamFileIO\obj\Debug\net8.0\CsFileStreamFileIO.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CsFileStream,File IO\CsFileStreamFileIO\CsFileStreamFileIO\obj\Debug\net8.0\CsFileStreamFileIO.dll
+C:\Users\User\Desktop\CsFileStream,File IO\CsFileStreamFileIO\CsFileStreamFileIO\obj\Debug\net8.0\refint\CsFileStreamFileIO.dll
+C:\Users\User\Desktop\CsFileStream,File IO\CsFileStreamFileIO\CsFileStreamFileIO\obj\Debug\net8.0\CsFileStreamFileIO.pdb
+C:\Users\User\Desktop\CsFileStream,File IO\CsFileStreamFileIO\CsFileStreamFileIO\obj\Debug\net8.0\CsFileStreamFileIO.genruntimeconfig.cache
+C:\Users\User\Desktop\CsFileStream,File IO\CsFileStreamFileIO\CsFileStreamFileIO\obj\Debug\net8.0\ref\CsFileStreamFileIO.dll
